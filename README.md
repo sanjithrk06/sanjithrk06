@@ -5,9 +5,10 @@
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+There%F0%9F%91%8B;I'm+Sanjith" />
 </div>
 
-<h3>Welcome to my GitHub profile!</h3>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 
- I'm a passionate and dedicated aspiring full stack developer with a strong interest in creating dynamic and responsive web applications. My journey in the world of coding began with curiosity and has since evolved into a full-fledged passion for developing robust and scalable solutions.
+
+I'm a passionate and dedicated aspiring full stack developer with a strong interest in creating dynamic and responsive web applications. My journey in the world of coding began with curiosity and has since evolved into a full-fledged passion for developing robust and scalable solutions.
 <br/>
 
 ### Connect with me :
