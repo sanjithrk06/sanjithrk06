@@ -6,6 +6,7 @@
 </div>
 
 <h3 align="center">Welcome to my GitHub profile!</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sanjithrk06&label=Profile%20views&color=0D1117&bg_color=7F3FBF&style=flat" alt="sanjithrk06" /></p>
 
 
 I'm a passionate and dedicated aspiring full stack developer with a strong interest in creating dynamic and responsive web applications. My journey in the world of coding began with curiosity and has since evolved into a full-fledged passion for developing robust and scalable solutions.
