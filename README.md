@@ -1,50 +1,61 @@
 ![Sanjith Banner](./assets/banner.jpg)
 
-
-
-# Hi there! I'm Sanjith R K <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-
-
-
-
-I'm a passionate and curious individual deeply interested in technology and its applications. Currently, I'm pursuing a degree in Computer Science at **Bannari Amman Institute of Technology**, where I'm constantly exploring new concepts and pushing the boundaries of my knowledge.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Sanjith!;" />
 
 ---
-## What I'm passionate about:
+<h3>Welcome to my GitHub profile!</h3>
 
-- 💡 Exploring new technologies and discovering innovative solutions.
-- 🌱 Learning and growing, especially in the realms of Web development.
-- ✍️ Pursuing Web Design as creative outlets and side projects.
+ I'm a passionate and dedicated aspiring full stack developer with a strong interest in creating dynamic and responsive web applications. My journey in the world of coding began with curiosity and has since evolved into a full-fledged passion for developing robust and scalable solutions.
+<br/>
 
----
-## What I'm currently up to:
+#### Connect with me :
+<div>
+  <a href="mailto:sanjithkarthikeyanr@gmail.com" ><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="30" /></a>
+  <a href="https://www.linkedin.com/in/sanjithrk06/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30" /></a>
+  <a href="https://sanjith-portfolio.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=processing" width="32" /></a>
+</div>
 
-- 🎓 Studying hard to deepen my understanding of computer science fundamentals and mathematical principles.
-- 🛠️ Working on personal coding projects to apply what I've learned and to experiment with new technologies.
-- 📚 Researching and staying updated on the latest advancements in the tech industry.
+<br/>
 
----
-  
+<h2>Programming Languages</h2>
 
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
+<div>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</div>
 
-  
+<br/>
 
-### 🛠 &nbsp;Tech Stack
+<h2>Frontend Development</h2>
 
-  
+### Languages : 
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</div>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### Frameworks : 
+<div>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,scss,bootstrap" />
+</div>
 
-&nbsp;&nbsp;&nbsp;
----
-## 🤝🏻 &nbsp; Let's connect and collaborate:
+<br/>
 
-- 💬 Interested in engaging discussions, brainstorming sessions, or collaborative projects.
-- 📫 You can reach out to me via email at [sanjithkarthikeyanr@gmail.com]. I'm always open to new opportunities and conversations!
-- 📄 Check out my [Portfolio](https://www.sanjith-portfolio.netlify.app) for a more detailed overview of my skills and experiences.
+<h2>Backend Development</h2>
 
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sxn_jith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjithrk06) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanjithrk06) 
+### Languages & Frameworks : 
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
 
----
+### Database & Tools : 
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,postman" />
+</div>
 
+<br/>
+
+<h2>Tools</h2>
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</div>
+
+<br/>
