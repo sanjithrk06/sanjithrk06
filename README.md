@@ -8,46 +8,58 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sanjithrk06&label=Profile%20views&color=0D1117&bg_color=7F3FBF&style=flat" alt="sanjithrk06" /></p>
 
-
+<div align="center">
 I'm a passionate and dedicated aspiring full stack developer with a strong interest in creating dynamic and responsive web applications. My journey in the world of coding began with curiosity and has since evolved into a full-fledged passion for developing robust and scalable solutions.
-<br/>
+</div>
 
-### Connect with me :
+
+<h2> 💡 What I'm passionate about:</h2>
+
+- 🚀 Exploring new technologies and discovering innovative solutions.
+- 🌱 Learning and growing, especially in the realms of Web development.
+- 🎨 Pursuing Web Design as creative outlets and side projects.
+
+<h2> 🔭 What I'm currently up to:</h2>
+
+- 🎓 Studying hard to deepen my understanding of computer science fundamentals and mathematical principles.
+- 🛠️ Working on personal coding projects to apply what I've learned and to experiment with new technologies.
+- 📚 Researching and staying updated on the latest advancements in the tech industry.
+
+<h3 align="left">🌐 Connect with me:</h3>
 <div>
+  <a href="https://sanjith-portfolio.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=processing" width="33" /></a>
   <a href="mailto:sanjithkarthikeyanr@gmail.com" ><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="30" /></a>
   <a href="https://www.linkedin.com/in/sanjithrk06/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30" /></a>
-  <a href="https://sanjith-portfolio.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=processing" width="32" /></a>
 </div>
 
 ---
-<h2>Programming Languages</h2>
+<h2 align="left">🛠️ Skills</h2>
 
-<div>
+<h3 align="left"> Programming Languages :</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </div>
 
-<br/>
-
-<h2>Frontend Development</h2>
-<div>
+<h3 align="left"> Frontend Development :</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,scss,bootstrap" />
 </div>
 
-<br/>
-
-<h2>Backend Development</h2>
-<div>
+<h3 align="left"> Backend Development :</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
 </div>
 
-<br/>
-
-<h2>DevOps & Tools</h2>
-<div>
+<h3 align="left"> DevOps & Tools :</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </div>
 
 ---
-<h2>Activity</h2>
+<h2 align="center"> 📊 Activity </h2>
 
 ![Sanjith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjithrk06&custom_title=Sanjith%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+---
+
+<div align="center">*Thank you for visiting my profile!</div>
