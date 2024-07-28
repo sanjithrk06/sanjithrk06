@@ -63,3 +63,6 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 ---
 
 <div align="center">*Thank you for visiting my profile!</div>
+
+
+<figure><embed src="https://wakatime.com/share/@378f644f-0e50-42c2-83ac-fdc78877b5a4/7fb183e4-395a-475f-9f53-0e15dfcb5ca1.svg"></embed></figure>
