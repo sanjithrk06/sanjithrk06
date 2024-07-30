@@ -68,6 +68,15 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 ---
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 27 July 2024 - To: 29 July 2024
+
+Total Time: 1 min
+
+Other      13 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.70 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
