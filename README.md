@@ -70,10 +70,8 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2024 - To: 29 July 2024
-
-Other      13 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.96 %
-Markdown   0 secs          -------------------------   01.04 %
+Other      13 mins         ████████████████████████▓   98.96 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
