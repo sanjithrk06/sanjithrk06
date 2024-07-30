@@ -15,5 +15,5 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LANGUAGE: "false"
-          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_LANGUAGE: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
