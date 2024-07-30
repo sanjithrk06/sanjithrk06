@@ -65,6 +65,10 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 </table>
 </p>
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
