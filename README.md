@@ -44,7 +44,8 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <tr>
 <td colspan="2" align="center">
 
-    <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 
 ```txt
 JavaScript   7 hrs 50 mins   ████████████████████████░   95.48 %
@@ -55,6 +56,7 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 
 </td>
 </tr>
