@@ -86,4 +86,4 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-<div align="center">*Thank you for visiting my profile!</div>
+<div align="center">Thank you for visiting my profile!</div>
