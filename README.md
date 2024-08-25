@@ -84,4 +84,4 @@ PHP              29 mins         █░░░░░░░░░░░░░░�
 
 ---
 
-<div align="center">Thank you for visiting my profile!</div>
+<div align="center">Thank you for visiting my profile!👍</div>
