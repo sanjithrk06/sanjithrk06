@@ -48,11 +48,11 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   4 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   41.38 %
-JavaScript       3 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.46 %
-HTML             51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-PHP              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JSON             33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Blade Template   7 hrs 22 mins   ████████████▓░░░░░░░░░░░░   50.79 %
+JavaScript       3 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+HTML             59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+PHP              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+JSON             33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
