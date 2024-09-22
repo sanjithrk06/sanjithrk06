@@ -48,11 +48,11 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 39 mins   █████████████████████▒░░░   84.93 %
-Bash         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Python       19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JavaScript   7 hrs 31 mins   █████████████████████▒░░░   85.83 %
+Bash         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Python       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
