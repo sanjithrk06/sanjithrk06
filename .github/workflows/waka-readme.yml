@@ -9,13 +9,21 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          SECTION_NAME: Github & Coding Stats
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LANGUAGE: "true"
-          SHOW_LANGUAGE_PER_REPO: "true"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_COMMIT: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          DEBUG_LOGGING: "False"
