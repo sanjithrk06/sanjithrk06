@@ -48,8 +48,7 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 mins         ███████████████████▓░░░░░   78.92 %
-JSON         2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
