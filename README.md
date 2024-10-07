@@ -44,12 +44,6 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <tr>
 <td colspan="2" align="center">
 
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjithrk06&custom_title=Sanjith%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
 
 </td>
