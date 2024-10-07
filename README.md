@@ -45,15 +45,6 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <td colspan="2" align="center">
 
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 </td>
 </tr>
 <tr>
