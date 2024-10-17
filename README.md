@@ -28,7 +28,7 @@ I'm a passionate and dedicated aspiring full stack developer with a strong inter
 <h3 align="center"> Development Frameworks</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,scss,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postman" />
 </div>
 
 <h3 align="center"> DevOps & Tools :</h3>
